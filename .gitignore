@@ -1,0 +1,11 @@
+# dataset (용량 문제로 저장소에 포함하지 않음, README에 다운로드 안내)
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# misc
+.ipynb_checkpoints/
