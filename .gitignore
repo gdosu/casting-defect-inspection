@@ -9,3 +9,6 @@ venv/
 
 # misc
 .ipynb_checkpoints/
+
+# 실행 결과물 (재현 가능하므로 저장소에 포함하지 않음)
+output/

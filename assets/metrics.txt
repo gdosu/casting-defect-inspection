@@ -1,0 +1,10 @@
+test accuracy: 0.9469
+
+              precision    recall  f1-score   support
+
+          OK       0.90      0.96      0.93       262
+      DEFECT       0.98      0.94      0.96       453
+
+    accuracy                           0.95       715
+   macro avg       0.94      0.95      0.94       715
+weighted avg       0.95      0.95      0.95       715
