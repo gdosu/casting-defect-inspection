@@ -1,6 +1,9 @@
 # dataset (용량 문제로 저장소에 포함하지 않음, README에 다운로드 안내)
 dataset/
 
+# 채용공고 등 개인 메모 (공개 저장소에 포함하지 않음)
+docs/
+
 # Python
 __pycache__/
 *.pyc
